@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Pedro. I do... I don't know yet!" src="./assets/gh-readme-header-.png" /></a></p>
+<p align="center"><img width="80%" alt="Hello, I'm Pedro. I do... I don't know yet!" src="./assets/gh-readme-header--.png" /></a></p>
 
 
 - 🔭 I’m currently working on ...
