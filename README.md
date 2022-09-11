@@ -10,6 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Github Statics](https://github-readme-stats.vercel.app/api?username=pdroaq&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffffff00)
+![Github Statics](https://github-readme-stats.vercel.app/api?username=pdroaq&&show_icons=true&title_color=CB7EC0&icon_color=FF577A&text_color=C7B6F0&bg_color=ffffff00)
 
 ![Snake animation](https://github.com/pdroaq/pdroaq/blob/output/github-contribution-grid-snake.svg)
