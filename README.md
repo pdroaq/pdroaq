@@ -3,14 +3,13 @@
 
 
 
-    - 🔭 I’m currently working on ...
-    - 🌱 I’m currently learning ...
-    - 👯 I’m looking to collaborate on ...
-    - 🤔 I’m looking for help with ...
-    - 💬 Ask me about ...
-    - 📫 How to reach me: ...
-    - 😄 Pronouns: ...
-    - ⚡ Fun fact: ...   
+    - 🛒 I’m currently working in a Supermarket
+    
+    - 🌱 I’m currently learning the basic of Frontend
+    
+    - 🤔 I’m looking for help with everything - *in need of tips*
+    
+    - ⚡ Fun fact: I already hugged the Faustão   
 
 <br>
 
@@ -21,7 +20,7 @@
   <!--<img align="center" src="https://rafaellaballerini.notion.site/image/https%3A%2F%2Fwww.pngmart.com%2Ffiles%2F12%2FMy-Neighbor-Totoro-PNG-Image.png?table=block&id=70f68e74-85cd-40a0-8057-4c0b202074a1&spaceId=ca97155a-230f-47fd-94ea-bd2db3fd6d6a&width=250&userId=&cache=v2"/> -->
   <img align="center" height="140em" src="https://c.tenor.com/raJbLZozdjAAAAAj/teagif-cute.gif"/>
 </div>
-
+ 
 ##
 
 <!--
