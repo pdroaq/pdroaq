@@ -14,8 +14,8 @@
 <br>
 
 <div align="center">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=pdroaq&&show_icons=true&title_color=B17BD2&icon_color=FF577A&text_color=C7B6F0&bg_color=ffffff00"/>
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdroaq&layout=compact&langs_count=7&show_icons=true&title_color=B17BD2&icon_color=FF577A&text_color=C7B6F0&bg_color=ffffff00"/>
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=pdroaq&&show_icons=true&title_color=E69774&icon_color=E69774&text_color=F9DD9D&bg_color=ffffff00"/>
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdroaq&layout=compact&langs_count=7&show_icons=true&title_color=E69774&icon_color=FF577A&text_color=F9DD9D&bg_color=ffffff00"/>
   <!--<img height="140em" src="./assets/me shaved.png"/> -->
   <!--<img align="center" src="https://rafaellaballerini.notion.site/image/https%3A%2F%2Fwww.pngmart.com%2Ffiles%2F12%2FMy-Neighbor-Totoro-PNG-Image.png?table=block&id=70f68e74-85cd-40a0-8057-4c0b202074a1&spaceId=ca97155a-230f-47fd-94ea-bd2db3fd6d6a&width=250&userId=&cache=v2"/> -->
   <img align="center" height="140em" src="https://c.tenor.com/raJbLZozdjAAAAAj/teagif-cute.gif"/>
