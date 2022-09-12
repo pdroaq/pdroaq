@@ -12,6 +12,8 @@
     - 😄 Pronouns: ...
     - ⚡ Fun fact: ...   
 
+<br>
+
 <div align="center">
   <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=pdroaq&&show_icons=true&title_color=B17BD2&icon_color=FF577A&text_color=C7B6F0&bg_color=ffffff00"/>
   <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdroaq&layout=compact&langs_count=7&show_icons=true&title_color=B17BD2&icon_color=FF577A&text_color=C7B6F0&bg_color=ffffff00"/>
