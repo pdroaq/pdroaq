@@ -19,11 +19,11 @@
   <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtle&&langs_count=7&show_icons=true&title_color=E69774&icon_color=FF577A&text_color=F9DD9D&bg_color=ffffff00"/>
   <!--<img height="140em" src="./assets/me shaved.png"/> -->
   <!--<img align="center" src="https://rafaellaballerini.notion.site/image/https%3A%2F%2Fwww.pngmart.com%2Ffiles%2F12%2FMy-Neighbor-Totoro-PNG-Image.png?table=block&id=70f68e74-85cd-40a0-8057-4c0b202074a1&spaceId=ca97155a-230f-47fd-94ea-bd2db3fd6d6a&width=250&userId=&cache=v2"/> -->
-  <img align="center" height="250em" src="https://c.tenor.com/raJbLZozdjAAAAAj/teagif-cute.gif"/>
+  <img align="center" height="140em" src="https://c.tenor.com/raJbLZozdjAAAAAj/teagif-cute.gif"/>
     
 ##
     
-  <a href="https://www.linkedin.com/in/pedro-giovani-aquino/"><img align="center" height="200em" src="./assets/Imagem2.png"/><a/>
+  <a href="https://www.linkedin.com/in/pedro-giovani-aquino/"><img align="center" height="250em" src="./assets/Imagem2.png"/><a/>
 </div>
 
 
