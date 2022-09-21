@@ -22,7 +22,7 @@
     
 ##
     
-  <img align="center" height="250em" src="./assets/Imagem1.png"/>
+  <img align="center" height="250em" src="./assets/Imagem2.png"/>
 </div>
 
 
