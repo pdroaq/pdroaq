@@ -23,7 +23,7 @@
     
 ##
     
-  <a href="https://www.linkedin.com/in/pedro-giovani-aquino/"><img align="center" height="250em" src="./assets/Imagem2.png"/><a/>
+  <a href="https://www.linkedin.com/in/pedro-giovani-aquino/"><img align="center" height="220em" src="./assets/Imagem2.png"/><a/>
 </div>
 
 
