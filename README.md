@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/pedro-giovani-aquino/"><img align="center" height="140em" src="./assets/Imagem2.png"/><a/>
+    <a href="https://www.linkedin.com/in/pedro-giovani-aquino/"><img align="center" height="160em" src="./assets/Imagem2.png"/><a/>
 
   <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=pdroaq&&show_icons=true&title_color=E69774&icon_color=E69774&text_color=F9DD9D&bg_color=ffffff00"/>
   <!--<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdroaq&layout=compact&langs_count=7&show_icons=true&title_color=E69774&icon_color=FF577A&text_color=F9DD9D&bg_color=ffffff00"/>-->
