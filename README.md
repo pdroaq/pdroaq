@@ -30,15 +30,20 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/pedro-giovani-aquino/"><img align="center" height="220em" src="./assets/Imagem2.png"/><a/>
+    <a href="https://www.linkedin.com/in/pedro-giovani-aquino/"><img align="center" height="220em" src="./assets/Imagem2.png"/><a/>
+        <a href="https://www.linkedin.com/in/pedro-giovani-aquino/"><img align="center" height="220em" src="./assets/Imagem2.png"/><a/>
+            
 
     
-<img src="https://activity-graph.herokuapp.com/graph?username=pdroaq&theme=react-dark&hide_border=true&area=true&show_icons=true&title_color=E69774&icon_color=FF577A&text_color=F9DD9D&bg_color=ffffff00"/>
+
 </div>
 
     
 
 
 <!--
+<img src="https://activity-graph.herokuapp.com/graph?username=pdroaq&theme=react-dark&hide_border=true&area=true&show_icons=true&title_color=E69774&icon_color=FF577A&text_color=F9DD9D&bg_color=ffffff00"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdroaq&theme=tokyonight" alt="mystreak"/>
     
 [![Spotify] <img src="https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"/>
