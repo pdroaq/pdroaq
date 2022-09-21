@@ -37,6 +37,6 @@
 -->
 
 
-
+<!-- 
 ![Snake animation](https://github.com/pdroaq/pdroaq/blob/output/github-contribution-grid-snake.svg)
-
+-->
